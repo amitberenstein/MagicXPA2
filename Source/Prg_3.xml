@@ -27,7 +27,11 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
+<<<<<<< HEAD
           <LastModified _date="736197" _time="54869" date="21/08/2016" time="15:14:29"/>
+=======
+          <LastModified _date="736197" _time="54955" date="21/08/2016" time="15:15:55"/>
+>>>>>>> d0fea99bf4ce5ef6b16fb58d8db16e149342d718
         </Header>
         <ItemIsn val="4"/>
         <Resource>
@@ -53,6 +57,7 @@
             <Column id="3" name="4">
               <PropertyList model="FIELD">
                 <Model attr_obj="FIELD_ALPHA" id="1"/>
+<<<<<<< HEAD
                 <Picture id="157" valUnicode="1"/>
                 <StoredAs id="173" val="1"/>
                 <Size id="174" val="1"/>
@@ -65,6 +70,20 @@
                 <Picture id="157" valUnicode="2"/>
                 <StoredAs id="173" val="1"/>
                 <Size id="174" val="2"/>
+=======
+                <Picture id="157" valUnicode="7"/>
+                <StoredAs id="173" val="1"/>
+                <Size id="174" val="7"/>
+                <_Flip id="194"/>
+              </PropertyList>
+            </Column>
+            <Column id="4" name="9">
+              <PropertyList model="FIELD">
+                <Model attr_obj="FIELD_ALPHA" id="1"/>
+                <Picture id="157" valUnicode="3"/>
+                <StoredAs id="173" val="1"/>
+                <Size id="174" val="3"/>
+>>>>>>> d0fea99bf4ce5ef6b16fb58d8db16e149342d718
                 <_Flip id="194"/>
               </PropertyList>
             </Column>
